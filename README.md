@@ -17,7 +17,6 @@ Agile or Waterfall Processes
 Web and Mobile Application testing
 Operational management experience in chemical handling and traffic management.
 
-
 - 🔭 I’m currently working on building a portfolio
 - 🤔 I’m looking for test or other operational  employment
 - 📫 How to reach me by email: vchealy@gmail.com
