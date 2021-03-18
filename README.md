@@ -9,9 +9,9 @@ Traits:
 Organised | Innovative | Professional | Relish a challenge
 
 Experience:
-Consultant in Public Transport Smart Ticketing Smartcard
-Agile or Waterfall Processes
-Web and Mobile Application testing
+Consultant in Public Transport Smart Ticketing Smartcard | 
+Agile or Waterfall Processes | 
+Web and Mobile Application testing | 
 Operational management experience in chemical handling and traffic management.
 
 
