@@ -1,5 +1,5 @@
 <a href="https://www.linkedin.com/in/vincenthealy/" imageanchor="1"><img align="center" src="https://github.com/vchealy/vchealy/blob/main/VC%20HEALY%20MAKing%20LIFE%20BEtter.png"></a>
-<a href="https://hashnode.com/@vchealy/joinme" imageanchor="1"><img align="center" src="https://github.com/vchealy/vchealy/blob/main/brand-icon.svg"></a>
+<a href="https://hashnode.com/@vchealy/joinme" imageanchor="1"><img align="center" src="https://github.com/vchealy/vchealy/blob/main/brand-full.png"></a>
 
 
 ### Hello World... You made it to here then 👋
