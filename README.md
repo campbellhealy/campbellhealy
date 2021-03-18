@@ -1,4 +1,4 @@
-<img align="center" src="https://drive.google.com/file/d/1yT9hbByCCdvrW-ETaujLZBsSxt74x5vc/view?usp=sharing">
+<img align="center" src="https://drive.google.com/file/d/1yT9hbByCCdvrW-ETaujLZBsSxt74x5vc">
 
 ### Hello World... You made it to here then 👋
 
