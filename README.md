@@ -5,6 +5,6 @@
 - 👯 I’m looking to collaborate on front-end testing
 - 🤔 I’m looking for test or other operational  employment
 - 💬 Ask me about anything, I will do my best to help
-- 📫 How to reach me: email: vchealy@gmail.com
+- 📫 How to reach me by email: vchealy@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Some day, life will be perfect for everyone
