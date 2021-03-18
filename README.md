@@ -21,7 +21,7 @@ Operational management experience in chemical handling and traffic management.
 
 - 🌱 I’m currently learning ... Python-Data Science,  JavaScript and various other things that take my fancy
 - 👯 I’m looking to collaborate on front-end testing
-- 
+ 
 - 💬 Ask me about anything, I will do my best to help
 - ⚡ Some day, life will be perfect for everyone
 
