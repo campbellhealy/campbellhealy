@@ -24,6 +24,6 @@ Operational management experience in chemical handling and traffic management.
 
 <p float="left"
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vchealy&amp;layout=compact%22%20style=%22max-width:100%;">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=vchealy&amp;count_private=true&amp;show_icons=true&amp;theme=default&amp;hide_rank=true&amp;disable_animations=true&amp;custom_title=Stats" style="max-width:100%;">
+
 </p>
 
