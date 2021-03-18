@@ -14,13 +14,14 @@ Operational management experience in chemical handling and traffic management.
 
 
 - 🔭 I’m currently working on building a portfolio
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vchealy&amp;layout=compact%22%20style=%22max-width:100%%20padding-right: 20px;"><img align="top" src="https://github-readme-stats.vercel.app/api?username=vchealy&amp;count_private=true&amp;show_icons=true&amp;theme=default&amp;hide_rank=true&amp;disable_animations=true&amp;custom_title=Stats" style="max-width:100%;">
+
 - 🌱 I’m currently learning ... Python-Data Science,  JavaScript and various other things that take my fancy
 - 👯 I’m looking to collaborate on front-end testing
 - 🤔 I’m looking for test or other operational  employment
 - 💬 Ask me about anything, I will do my best to help
 - 📫 How to reach me by email: vchealy@gmail.com
-- 😄 Pronouns: He/Him
+
 - ⚡ Some day, life will be perfect for everyone
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vchealy&amp;layout=compact%22%20style=%22max-width:100%%20padding-right: 20px;"><img align="top" src="https://github-readme-stats.vercel.app/api?username=vchealy&amp;count_private=true&amp;show_icons=true&amp;theme=default&amp;hide_rank=true&amp;disable_animations=true&amp;custom_title=Stats" style="max-width:100%;">
 
