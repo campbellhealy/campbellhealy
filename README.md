@@ -1,4 +1,4 @@
-<a href="https://www.linkedin.com/in/vincenthealy/" imageanchor="1"><img align="center" src="https://github.com/vchealy/vchealy/blob/main/VC%20HEALY%20MAKing%20LIFE%20BEtter.png"></a><a id="follow-button" class="btn" title="Follow @VincentCHealy on Twitter" href="https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fpublish.twitter.com%2F&amp;ref_src=twsrc%5Etfw&amp;region=follow_link&amp;screen_name=VincentCHealy&amp;tw_p=followbutton"><i></i><span class="label" id="l">Follow <b>@VincentCHealy</b></span></a>
+<a href="https://www.linkedin.com/in/vincenthealy/" imageanchor="1"><img align="center" src="https://github.com/vchealy/vchealy/blob/main/VC%20HEALY%20MAKing%20LIFE%20BEtter.png"></a><a id="follow-button" class="btn" title=" Follow @VincentCHealy on Twitter" href="https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fpublish.twitter.com%2F&amp;ref_src=twsrc%5Etfw&amp;region=follow_link&amp;screen_name=VincentCHealy&amp;tw_p=followbutton"><i></i><span class="label" id="l"> Follow <b>@VincentCHealy</b></span></a>
 
 ### Hello World... You made it to here then 👋
 
