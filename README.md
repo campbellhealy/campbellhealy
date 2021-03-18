@@ -22,8 +22,4 @@ Operational management experience in chemical handling and traffic management.
 - 😄 Pronouns: He/Him
 - ⚡ Some day, life will be perfect for everyone
 
-<p float="left"
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vchealy&amp;layout=compact%22%20style=%22max-width:100%;">
-
-</p>
-
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vchealy&amp;layout=compact%22%20style=%22max-width:100%;">
