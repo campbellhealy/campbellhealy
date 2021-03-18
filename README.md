@@ -24,4 +24,4 @@ Operational management experience in chemical handling and traffic management.
 - 💬 Ask me about anything, I will do my best to help
 - ⚡ Some day, life will be perfect for everyone
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vchealy&amp;layout=compact%22%20style=%22max-width:100%%20padding-right: 20px;"><img align="top" src="https://github-readme-stats.vercel.app/api border="10"?username=vchealy&amp;count_private=true&amp;show_icons=true&amp;theme=default&amp;hide_rank=true&amp;disable_animations=true&amp;custom_title=Stats" style="max-width:100%;">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vchealy&amp;layout=compact%22%20style=%22max-width:100%%20padding-right: 20px;"><img align="top" src="https://github-readme-stats.vercel.app/api?username=vchealy&amp;count_private=true&amp;show_icons=true&amp;theme=default&amp;hide_rank=true&amp;disable_animations=true&amp;custom_title=Stats" style="max-width:100%;">
