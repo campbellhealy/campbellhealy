@@ -2,13 +2,13 @@
 
 ### Hello World... You made it to here then 👋
 
-Titles:
+Titles:</br>
 Test Consultant | QA Analyst | Test Analyst | Contract Manager | Test Consultant | Special Waste Chemist | Depot Manager | Operations Manager
 
-Traits:
+Traits:</br>
 Organised | Innovative | Professional | Relish a challenge
 
-Experience:
+Experience:</br>
 Consultant in Public Transport Smart Ticketing Smartcard | 
 Agile or Waterfall Processes | 
 Web and Mobile Application testing | 
