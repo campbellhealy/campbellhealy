@@ -1,6 +1,6 @@
 <a href="https://www.linkedin.com/in/vincenthealy/" imageanchor="1"><img align="center" src="https://github.com/vchealy/vchealy/blob/main/VC%20HEALY%20MAKing%20LIFE%20BEtter.png"></a>
 <hr>
-<a href="https://hashnode.com/@vchealy/joinme" imageanchor="1"><img align="center" src="https://github.com/vchealy/vchealy/blob/main/brand-full.png"></a><a class="twitter-follow-button" data-size="large" data-show-count="false" href="https://twitter.com/VincentCHealy?ref_src=twsrc%5Etfw;" >  Follow @VincentCHealy</a>
+<a href="https://hashnode.com/@vchealy/joinme" imageanchor="1"><img align="center" src="https://github.com/vchealy/vchealy/blob/main/brand-full.png"></a><a class="twitter-follow-button" data-size="large" data-show-count="false" href="https://twitter.com/VincentCHealy?ref_src=twsrc%5Etfw;" > <img align="center" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&amp;style=for-the-badge&amp;logo=twitter&amp;logoColor=white" style="max-width:100%;" </a>
 <hr>
 
 ### Hello World... You made it to here then 👋
