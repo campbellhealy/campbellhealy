@@ -1,4 +1,4 @@
-### Hello World... YOu made it to here then 👋
+### Hello World... You made it to here then 👋
 
 <!--
 **vchealy/vchealy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
