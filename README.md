@@ -3,26 +3,27 @@
 
 <hr>
 
-### Hello World... You made it to here then 👋
+### Hello, Welcome to my little repo world 👋
 
 Titles:
-Test Consultant | QA Analyst | Test Analyst | Contract Manager | Test Consultant | Special Waste Chemist | Depot Manager | Operations Manager
+| Data Analysis |Test Analysis | Process Improvements | Solution Finding | Python Coding |
 
 Traits:
-Organised | Innovative | Professional | Relish a challenge
+Staff Advocate | Always Looking to improve those around me | Persistent Learning |
 
 Experience:
 Consultant in Public Transport Smart Ticketing Smartcard
-Agile or Waterfall Processes
 Web and Mobile Application testing
+Data Analysis
+Team Building in a variety of industries
 Operational management experience in chemical handling and traffic management.
 
-- 🔭 I’m currently working on building a portfolio
-- 🤔 I’m looking for test or other operational  employment
+- 🔭 I use GitHub to build up snippets of code that interet me
+- 🤔 I’m looking for technically challenging  employment that helps the client
 - 📫 How to reach me by email: vchealy@gmail.com
 
-- 🌱 I’m currently learning ... Python-Data Science,  JavaScript and various other things that take my fancy
-- 👯 I’m looking to collaborate on front-end testing
+- 🌱 I’m currently learning ... Python for Data Science, a little bit of Go, and other technologies related to my current contract
+- 👯 I’m like to collaborate on projects that improve the lives of the public, 
 - 💬 Ask me about anything, I will do my best to help
 - ⚡ Some day, life will be perfect for everyone
 
