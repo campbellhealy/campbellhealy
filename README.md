@@ -9,7 +9,7 @@ Titles:
 | Data Analysis |Test Analysis | Process Improvements | Solution Finding | Python Coding |
 
 Traits:
-Staff Advocate | Always Looking to improve those around me | Persistent Learning |
+Staff Advocate | Making things better | Persistent Learner |
 
 Experience:
 Consultant in Public Transport Smart Ticketing Smartcard
