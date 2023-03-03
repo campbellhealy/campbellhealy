@@ -12,11 +12,11 @@ Traits:
 Staff Advocate | Making things better | Persistent Learner |
 
 Experience:
-Consultant in Public Transport Smart Ticketing Smartcard
-Web and Mobile Application testing
-Data Analysis
-Team Building in a variety of industries
-Operational management experience in chemical handling and traffic management.
+Consultant in Public Transport Smart Ticketing Smartcard  
+Web and Mobile Application testing  
+Data Analysis  
+Team Building in a variety of industries  
+Operational management experience in chemical handling and traffic management.  
 
 - 🔭 I use GitHub to build up snippets of code that interet me
 - 🤔 I’m looking for technically challenging  employment that helps the client
